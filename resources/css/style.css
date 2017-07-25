@@ -1,17 +1,17 @@
 /*Tim Baiton's CodeAcademy Excursion project - stylesheet*/
 body {
   font-family:Verdana;
-  font-weight: normal;
   color:white;
   background-color:black;
   text-align:center;
   }
   h1 {
     font-size:50px;
+    font-weight:normal;
   }
   h2 {
     font-size:42px;
-    font-weight:300;
+    font-weight:300px;
   }
   .calltoaction {
     color:Aquamarine;
@@ -20,9 +20,8 @@ body {
 p {
   color:gray;
   font-size:21px;
+  font-weight:normal;
   }
 .footer{
-  color:gray;
   text-align: right;
-  font-weight: normal;
   }
